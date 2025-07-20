@@ -118,10 +118,22 @@ export const workData = [
         link: 'https://portfolio-rahul-singh-five.vercel.app/'
     },
     {
-        title: 'Hotel Booking site',
-        description: 'Web Design | Coming Soon',
-        bgImage: '/hotel.png',
-        link: ''
+        title: 'Photographic site',
+        description: 'Web Design',
+        bgImage: '/photo.png',
+        link: 'https://shaym-events-ddu.vercel.app/'
+    },
+    {
+        title: 'Car Rental',
+        description: 'Web Design',
+        bgImage: '/car.png',
+        link: 'https://rent-car-topaz-omega.vercel.app/'
+    },
+    {
+        title: 'AI Toolsite',
+        description: 'Web Design',
+        bgImage: '/Ai.png',
+        link: 'https://createzy.vercel.app/'
     },
     {
         title: 'Sounds and tools site',
